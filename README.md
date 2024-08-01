@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web dev
 -------
 
-Front-end developer with 3 years of experience in building websites and web applications with focus on JavaScript as the main programming language. Good knowledge of front end framework Vue.js. Has hands on experience in working on various projects by complexity and vastness. Always improves my professional skills and aspires to gain new pieces of knowledge. Able to meet deadlines while working under pressure.
+Frontend developer with 4 years of experience in building websites and web applications with focus on JavaScript as the main programming language. Good knowledge of frontend framework Vue.js and have experience using React.js. Has hands on experience in working on various projects by complexity and vastness. Always improves my professional skills and aspires to gain new pieces of knowledge. Able to meet deadlines while working under pressure.
 
 * 🌍  I'm based in Russia, Cheboksary
 * ✉️ You can contact me at [llleogad@gmail.com](mailto:llleogad@gmail.com)
